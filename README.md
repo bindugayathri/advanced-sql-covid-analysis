@@ -25,23 +25,7 @@ This project demonstrates advanced SQL skills through comprehensive analysis of 
 5. **Demographic Insights**: Age, GDP, and healthcare factors
 6. **Performance Metrics**: Rolling averages and moving statistics
 
-## Files Structure
-```
-├── README.md
-├── sql_analysis/
-│   ├── 01_data_exploration.sql
-│   ├── 02_global_analysis.sql
-│   ├── 03_vaccination_analysis.sql
-│   ├── 04_geographic_analysis.sql
-│   ├── 05_time_series_analysis.sql
-│   ├── 06_demographic_analysis.sql
-│   ├── 07_performance_optimization.sql
-│   └── 08_advanced_insights.sql
-├── results/
-│   └── key_findings.md
-└── CovidDeaths.csv
-└── CovidVaccinations.csv
-```
+
 
 ## Setup Instructions
 1. Import the CSV files into your preferred SQL database (MySQL, PostgreSQL, SQL Server)
